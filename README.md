@@ -2,4 +2,4 @@
 
 Dataset Link:[ Kaggle ]( https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles)
 
-Tools: Python, Power BI
+Tools Used: Python, Power BI
